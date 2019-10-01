@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%2026eda6b984932921ec947ff0c6a39d60ae5b7c39-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_m0PbKJU9dbFOWbGr/commit/26eda6b984932921ec947ff0c6a39d60ae5b7c39)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%20d57b80cb6c50ce547ad177c21ab90f5060bdd6cb-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_m0PbKJU9dbFOWbGr/commit/d57b80cb6c50ce547ad177c21ab90f5060bdd6cb)
+
 
 
 
